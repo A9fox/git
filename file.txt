@@ -1,3 +1,2 @@
 hello git
-something text
 add new line
